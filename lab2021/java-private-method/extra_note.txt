@@ -1,0 +1,1 @@
+NOTE: add a newline after the initial header to prevent JIRA from choking on the markdown syntax

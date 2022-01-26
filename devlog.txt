@@ -1,0 +1,37 @@
+### <beg-file_info>
+### document_metadata:
+###   - caption: "caption"
+###     dmid: "uu655thrive_diameter"
+###     date: created="2019-10-17 07:45:14"
+###     last: lastmod="2021-09-09 21:00:01"
+###     desc: |
+###         ## Overview
+###         * public lab-space of dreftymac.org
+###         * 2021-09-17 14:24:04
+###     seealso: |
+###         ## See also
+###         * capt="github dreftymac trypublic" ;; href="https://github.com/dreftymac/trypublic" ;; tags="__tags01__" ;; id="dmid://uu470sweng1643232x03xlink"
+###     seeinstead: |
+###         * __seeinstead__
+### <end-file_info>
+
+main:
+
+  - caption: "php oop vs procedural"
+    rectype: rrmicro007
+    dmid:    "uu452brintsningg"
+    date:    "2021-08-30 10:37:29"
+    tags:    __tags__
+    trpub:    "false"
+    linktop:
+      - __linktop__
+    people:
+      - __people__
+    namespace:
+      - nams: __namespace__
+    wwbody: |
+      ## notes
+      * __notes__
+      ## seealso
+      * capt="readme local" ;; href="./lab2021/php-oop-vs-procedural/readme.txt" ;; tags="__tags01__" ;; id="dmid://uu349vefsw1630345x03xlink"
+
