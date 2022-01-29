@@ -1,3 +1,5 @@
+# pseudocode_demo_001aa
+
 <!---
 ### <beg-file_info>
 ### document_metadata:
@@ -21,6 +23,12 @@
 --->
 
 ## multi-return-vs-multi-function
+
+* a single function that returns composite output
+    * (eg) analogy a vending machine that sells ingredients and seasonings for meals
+
+* multiple functions that return atomic output
+    * (eg) analogy a vending machine that sells complete meals
 
 ### one-of-several ways to do it variant1
 <!--- dmid://uu665waterelq1579390643 --->
