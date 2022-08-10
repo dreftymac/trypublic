@@ -23,6 +23,7 @@
 ###     seealso: |
 ###         ## See also
 ###         * capt="gibberish names" ;; href="regain://lab2020/uu879evanescp1596188929" ;; tags="__tags01__" ;; id="dmid://uu192kabjo1643476x03xlink"
+###         * capt="gibberish relative" ;; href="../../lab2020/gibberish-variable-name/readme.md" ;; tags="__tags01__" ;; id="dmid://uu556spimp1643476x03xlink"
 ###     seeinstead: |
 ###         * __seeinstead__
 ##@ <end-file_info>
@@ -33,10 +34,12 @@
 * naming convention for variables that no one will ever use except me
 
 ### Rationale: why use this
+<!--- id="dmid://uu302lemsl1643476x03xlink" --->
 
 * protection against "accidental change" in search and replace operations
-* protects against namespace collisions
 * low chance of ever using the same name more than once
+* protects against namespace collisions
+* seealso rational for gibberish names infra://uu192kabjo
 
 ### Example: sample names with core types
 <!--- id="dmid://uu054stahh1643475x03xlink" --->
