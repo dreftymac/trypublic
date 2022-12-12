@@ -39,7 +39,7 @@
 * protection against "accidental change" in search and replace operations
 * low chance of ever using the same name more than once
 * protects against namespace collisions
-* seealso rational for gibberish names infra://uu192kabjo
+* seealso rationale for gibberish names infra://uu192kabjo
 
 ### Example: sample names with core types
 <!--- id="dmid://uu054stahh1643475x03xlink" --->
@@ -56,6 +56,25 @@ tbl6290rupname ;; array_of_dictionary
 aa0969snutable ;; array_of_dictionary
 ddg8938livinfo ;; dictionary
 ddg8938livdict ;; dictionary
+
+```
+
+### Example: sample names with core types (SomersByYankton variant)
+<!--- id="dmid://uu062rewra1670840x03xlink" --->
+
+```
+
+vx3232stuphref ;; variant
+vx3278stupdata ;; variant
+ss9035grazpath ;; string
+ss6862yeddhref ;; string
+ss8767snidhref ;; string
+aa2312robelist ;; array, list, tuple
+tbl6290rupname ;; array_of_dictionary
+aod6290rupname ;; array_of_dictionary
+aa0969snutable ;; array_of_dictionary
+dd8938liveinfo ;; dictionary
+dd8938livedict ;; dictionary
 
 ```
 
