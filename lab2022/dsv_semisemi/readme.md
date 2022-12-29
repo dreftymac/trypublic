@@ -19,7 +19,9 @@
 ##@         - nams: data/csv
 ##@     desc: |
 ##@         ## Overview
+##@         * dsvsemisemi
 ##@         * dsv_semisemi readme
+##@         * delimiter separated values double-semicolon
 ##@     seealso: |
 ##@         ## See also
 ##@         * capt="csv data download site" ;; href="https://www.datablist.com/learn/csv/download-sample-csv-files" ;; tags="__tags01__" ;; id="dmid://uu265kille1671128x03xlink"
@@ -100,5 +102,4 @@ Index ;; User Id         ;; First Name ;; Last Name ;; Sex    ;; Email          
 * [con] not widely used
 * [con] not supported by apps that allow only single-character-delimiter
 * [con] does not have a mechanism for embedding for values that need to have `;;` inside them
-
 
