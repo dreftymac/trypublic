@@ -28,10 +28,12 @@
 
 ## Overview
 <!--- id="dmid://uu525snubshut1676980928x03xlink" --->
+
 * Introduction to Web Accessibility
 
 ## Course information
 <!--- id="dmid://uu526snubshut1676980928x03xlink" --->
+
 * Welcome to "Introduction to Web Accessibility"
 * Course outline, grading, and certificate
 * Course discussion forums
@@ -39,6 +41,7 @@
 
 ## Module 1: What is Web Accessibility
 <!--- id="dmid://uu527snubshut1676980928x03xlink" --->
+
 * 1.1 Introduction
 * 1.2 Technology enabling people with disabilities
 * 1.3 Accessibility is for everyone
@@ -46,6 +49,7 @@
 
 ## Module 2: People and Digital Technology
 <!--- id="dmid://uu528snubshut1676980928x03xlink" --->
+
 * 2.1 Introduction
 * 2.2 Assistive technologies and adaptive strategies
 * 2.3 Physical and visual
@@ -56,6 +60,7 @@
 
 ## Module 3: Business Cases and Benefits
 <!--- id="dmid://uu529snubshut1676980928x03xlink" --->
+
 * 3.1 Introduction
 * 3.2 Discovering who is impacted by digital accessibility
 * 3.3 Understanding the return on investment potential
@@ -63,6 +68,7 @@
 
 ## Module 4: Principles, Standards and Checks
 <!--- id="dmid://uu530snubshut1676980928x03xlink" --->
+
 * 4.1 Introduction
 * 4.2 W3C accessibility standards
 * 4.3 Principle 1 - Perceivable
@@ -73,6 +79,7 @@
 
 ## Module 5: Getting Started with Accessibility in your Organization
 <!--- id="dmid://uu531snubshut1676980928x03xlink" --->
+
 * 5.1 Introduction
 * 5.2 Discover and plan
 * 5.3 Implement and maintain
@@ -80,6 +87,7 @@
 
 ## Course Conclusion and Next Steps
 <!--- id="dmid://uu532snubshut1676980928x03xlink" --->
+
 * Summary and next steps
 * Course evaluation survey
 * Acknowledgements
