@@ -21,7 +21,7 @@
 ##@     seealso: |
 ##@         ## See also
 ##@         * capt="__wwcapt__" ;; href="__wwhref__" ;; tags="__wwtags__" ;; id="dmid://uu867deedchef1676985114x03xlnk"
-##@         * capt="public lab githug" ;; href="https://github.com/dreftymac/trypublic/tree/master/lab2023/a11y-course-uu518bergen1675919355" ;; tags="__wwtags__" ;; id="dmid://uu944griddean1676989597"
+##@         * capt="public lab github" ;; href="https://github.com/dreftymac/trypublic/tree/master/lab2023/a11y-course-uu518bergen1675919355" ;; tags="__wwtags__" ;; id="dmid://uu944griddean1676989597"
 ##@     seeinstead: |
 ##@         * __seeinstead__
 ##@ <end-file_info>
