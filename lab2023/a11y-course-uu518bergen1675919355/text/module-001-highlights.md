@@ -7,7 +7,7 @@
 ##@     dmid: "uu161keptfeed1676993944fmid"
 ##@     vim:  tw=180
 ##@     date: created="2023-02-21T07:39:04"
-##@     last: lastmod="2023-02-21T07:39:04"
+##@     last: lastmod="2023-02-21T07:48:47"
 ##@     tags:       tags
 ##@     people:
 ##@         - pple: people
@@ -39,3 +39,10 @@
 
 * Some disabilities are “invisible” or “hidden”; that is, you can’t tell by looking at someone that they have that impairment
 * It is likely that some people you know have disabilities that you aren’t aware of.
+
+### Item: 1.3.5 Benefits to others
+
+* While accessible media is essential for people with disabilities, it is also very useful for everyone in a variety of situations.
+    * Skimmed or read quickly rather than watched or listened to.
+    * Used without needing to download video files. For example, to save data on mobile.
+    * Used offline, printed, or converted to braille.
