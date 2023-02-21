@@ -1,0 +1,93 @@
+##@ <beg-file_info>
+##@ document_metadata:
+##@   - caption: "overview_material_003aa"
+##@     dmid: "uu968treespry1676979188fmid"
+##@     vim:  tw=180
+##@     date: created="2023-02-21T03:33:08"
+##@     last: lastmod="2023-02-21T03:52:04"
+##@     tags:       __tags__
+##@     people:
+##@         - pple: __people__
+##@     author:     created="__author__"
+##@     lastupdate: "__lastupdate__"
+##@     namespace:
+##@         - nams: __namespace__
+##@     desc: |
+##@         ## Overview
+##@         * __overview__
+##@     seealso: |
+##@         ## See also
+##@         * capt="__wwcapt__" ;; href="__wwhref__" ;; tags="__wwtags__" ;; id="dmid://uu968treespry1676979188x03xlnk"
+##@     seeinstead: |
+##@         * __seeinstead__
+##@ <end-file_info>
+
+main_overview_eastmoline_info:
+  desc: |
+     * W3Cx "Introduction to Web Accessibility" course
+     * Available through https://learning.edx.org
+  wwbody: |
+    ## Overview
+    * W3Cx "Introduction to Web Accessibility" course
+    * Available through https://learning.edx.org
+    * The content consists of Eight sections
+    * Five learning modules plus three supplemental
+
+main_overview_eastmoline_table:
+  - hddtext: "Course information"
+    hddlevel: 1
+    sstype: supplemental
+    desc: |
+      * intro to W3Cx training program
+      * suitable audiences
+      * what the course covers
+    wwbody: |
+      ## Overview
+      * intro and history of W3C
+      * About UNESCO IITE -- The UNESCO Institute for Information Technologies in Education (UNESCO IITE) 
+      ### Entrance survey (optional)
+      * Questions about the exam taker (audience)
+      
+  - hddtext: "Module 1: What is Web Accessibility "
+    hddlevel: 1
+    sstype: learning
+    wwbody: |
+      __blank__
+
+  - hddtext: "Module 2: People and digital technology"
+    hddlevel: 1
+    sstype: learning
+    wwbody: |
+      __blank__
+
+  - hddtext: "Module 3: Business cases and benefits"
+    hddlevel: 1
+    sstype: learning
+    wwbody: |
+      __blank__
+
+  - hddtext: "Module 4: Principles, standards, and checks"
+    hddlevel: 1
+    sstype: learning
+    wwbody: |
+      __blank__
+
+  - hddtext: "Module 5: Getting started with accessibility in your organization"
+    hddlevel: 1
+    sstype: learning
+    wwbody: |
+      __blank__
+
+  - hddtext: "Course conclusion and next steps"
+    hddlevel: 1
+    sstype: supplemental
+    wwbody: |
+      __blank__
+      
+  - hddtext: "Before you go..."
+    hddlevel: 1
+    sstype: supplemental
+    wwbody: |
+      __blank__
+
+
