@@ -51,9 +51,10 @@
 ### Item: highlights from each learning module
 <!--- id="dmid://uu801palmacts1676997522x03xlink" --->
 
-* [module-001-highlights.md](./text/module-001-highlights.md)
-* [module-002-highlights.md](./text/module-002-highlights.md)
-* [module-003-highlights.md](./text/module-003-highlights.md)
-* [module-004-highlights.md](./text/module-004-highlights.md)
-* [module-005-highlights.md](./text/module-005-highlights.md)
+* Module 1: [module-001-highlights.md](./text/module-001-highlights.md) What is Web Accessibility
+* Module 2: [module-002-highlights.md](./text/module-002-highlights.md) People and Digital Technology
+* Module 3: [module-003-highlights.md](./text/module-003-highlights.md) Business Cases and Benefits
+* Module 4: [module-004-highlights.md](./text/module-004-highlights.md) Principles, Standards and Checks
+* Module 5: [module-005-highlights.md](./text/module-005-highlights.md) Getting Started with Accessibility in your Org
+
 
