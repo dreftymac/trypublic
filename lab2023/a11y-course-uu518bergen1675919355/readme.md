@@ -28,6 +28,7 @@
 --->
 
 ## Overview
+<!--- id="dmid://uu411dulyreps1676996873x03xlink" --->
 
 * Introduction to Web Accessibility
 * offered by W3Cx WAI0.1x
@@ -35,8 +36,24 @@
 * bookmark this site at [home.edx.org](https://home.edx.org) if you would like to register
 
 ### Item: About this site
+<!--- id="dmid://uu414dulyreps1676996873x03xlink" --->
 
 * this is a github repository for notes, review and critique of an online web course
 * the opinions and views reflect that of an individual developer and are not reflective of any organization
 
+## See also
+
+### Item: Outline of course elements
+<!--- id="dmid://uu800palmacts1676997522x03xlink" --->
+
+* [overview_material.md](./text/overview_material_004aa.md)
+
+### Item: highlights from each learning module
+<!--- id="dmid://uu801palmacts1676997522x03xlink" --->
+
+* [module-001-highlights.md](./text/module-001-highlights.md)
+* [module-002-highlights.md](./text/module-002-highlights.md)
+* [module-003-highlights.md](./text/module-003-highlights.md)
+* [module-004-highlights.md](./text/module-004-highlights.md)
+* [module-005-highlights.md](./text/module-005-highlights.md)
 
