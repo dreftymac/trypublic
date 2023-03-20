@@ -20,7 +20,7 @@
 ##@         * readme
 ##@     seealso: |
 ##@         ## See also
-##@         * capt="dry_run_option" ;; href="c:/sm/docs/mytrybits/g/trygit/lab2018/merge-conflict/dry_run_option.txt" ;; tags="__wwtags__" ;; id="dmid://uu756sankgray1679329022"
+##@         * capt="dry_run_option" ;; href="c:/sm/docs/mytrybits/g/trygit/lab2018/merge-conflict/dry_run_option.txt?find=uu756sankgray1679329022" ;; tags="__wwtags__" ;; id="dmid://uu756sankgray1679329022"
 ##@     seeinstead: |
 ##@         * seeinstead
 ##@ <end-file_info>
