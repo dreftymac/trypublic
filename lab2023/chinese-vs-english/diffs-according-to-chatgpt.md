@@ -30,7 +30,7 @@
 ## Overview
 * language diffs-according-to-chatgpt
 
-## Query: what are the diffs b/t english and chinese prononciation
+## Query: what are the diffs b/t english and chinese pronunciation
 <!--- id="dmid://uu359sledship1679802417xhmd" --->
 
 English and Chinese pronunciation are quite different, and there are several key differences between the two languages:
