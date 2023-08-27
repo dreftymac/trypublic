@@ -41,22 +41,34 @@ if(True):
 ## <xrbeg id="uu669smist1628779"        d="wordlist.init">##
 if(True):
   aa33listimpp = '''
-  datetime sys pprint os time
-  codecs random glob warnings
-  token pipes re
+  datetime sys pprint os 
+  random re codecs glob warnings
+  token
   '''.split()
+  # codecs  glob warnings
+  # token pipes re
   pass
-  vg33modules   = map(__import__, aa33listimpp)
-  sg33doctext   = " ".join([vxx.__doc__ for vxx in vg33modules])
+  vg33modules     = map(__import__, aa33listimpp)
+  vx9886lispoutt  = list(vg33modules)
   pass
-  rgx33word4min = r'[a-zA-Z0-9]{4,}'  ## regex to find words of 4chars or more
-  aa33listword  = [str(vxx).lower() for vxx in re.findall(rgx33word4min,sg33doctext) ]
+  vx0909wordoutt  = vx9886lispoutt
+  vx0909wordoutt  = [vxx.__doc__ for vxx in vx0909wordoutt if(vxx)]
+  vx0909wordoutt  = [vxx for vxx in vx0909wordoutt if(vxx)]  
+  vx0909wordoutt  = "\x20".join(vx0909wordoutt)
+  pass
+  # pprint.pprint(vx0909wordoutt);exit()
+  # pass
+  # sg33doctext   = " ".join([vxx.__doc__ for vxx in list(vg33modules) if(vxx is not None)])
+  # pass
+  rx33wordfind  = r'[a-zA-Z0-9]{4,10}'  ## regex to find words of 4chars or more
+  aa33listword  = [str(vxx).lower() for vxx in re.findall(rx33wordfind,vx0909wordoutt) ]
   aa33listword  = set(aa33listword)
   aa33listword  = sorted(aa33listword)
   pass
-
-  pprint.pprint(random.choice(aa33listword))
-  pprint.pprint(aa33listword)
-  pprint.pprint(aa33listword.__len__())
-  pass
+  # pprint.pprint(aa33listword);exit()
+  # pass
+  # pprint.pprint(aa33listword.__len__());exit()
+  # pass
+  pprint.pprint('{vjj}{vkk}'.format(vjj=random.choice(aa33listword),vkk=random.choice(aa33listword)))
+  passa
 ## <xrend>##uu669smist1628779
